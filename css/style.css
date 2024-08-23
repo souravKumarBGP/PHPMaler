@@ -1,0 +1,13 @@
+/* ********************* Login form ************************** */
+form{
+    width: 450px !important;
+    background: #eee;
+    padding: 15px;
+}
+
+
+input{
+    display: inline-block;
+    box-shadow: 0px 0px 5px #eee !important;
+    border-radius: 3px !important;
+}
